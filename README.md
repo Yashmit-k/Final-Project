@@ -22,7 +22,7 @@ Simple Interest = (Principal × Rate × Time) / 100
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simpleinterest.sh.git
+git clone https://github.com/Yashmit-k/Final-Project.git
 cd simpleinterest.sh
 ```
 2.Make the script executable:
